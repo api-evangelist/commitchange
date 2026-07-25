@@ -1,0 +1,40 @@
+# CommitChange
+
+> CommitChange is an all-in-one nonprofit fundraising platform that provides donation processing, donor management, fundraising campaigns, professional event management, and real-time analytics. Founded in 2012 and acquired by Software for Good in 2022, CommitChange charges no monthly fees and no long-term contracts -- just 5% + $0.30 per transaction, automatically deducted from online donations. The platform is built on the open-source Houdini Project and has helped 1,000+ nonprofits raise $82M+ through 4,700+ campaigns and 2,900+ events.
+
+## Core Features
+
+- [Donation Processing](https://commitchange.com/donation-processing): Online donation forms, recurring giving, embeddable website widgets, donor fee coverage, automatic receipting, and a transactions dashboard. Payments processed securely via Stripe.
+- [Fundraising Campaigns](https://commitchange.com/fundraising-campaigns): Create crowdfunding campaigns with giving levels, peer-to-peer fundraising, social sharing, and progress tracking. Supports one-time and recurring campaigns.
+- [Professional Events & Ticketing](https://commitchange.com/professional-events): Event pages with ticket sales, attendee management, integrated fundraising, and multimedia support for galas, give-a-thons, and community events.
+- [Donor Management](https://commitchange.com/donor-management): Supporter database with donor profiles, giving history, communication tracking, recurring donor retention tools, and exportable reports.
+- [Dashboard & Reports](https://commitchange.com/dashboard-reports): Real-time analytics dashboard with campaign performance tracking, donation trends, custom date-range reports, and data export.
+
+## Pricing
+
+- [Pricing](https://commitchange.com/pricing): 5% + $0.30 per transaction, automatically deducted from online donations. No monthly fees. No long-term contracts. No invoices. All features included at no extra cost -- organizations are never upsold. Credit card processing handled securely by Stripe. International transactions have a 1% processing surcharge from the card network.
+
+## Case Studies
+
+- [Case Studies](https://commitchange.com/case-studies): Real nonprofit success stories
+  - Open Insulin Foundation (Oakland, CA): Raised nearly $90,000 to democratize insulin production through open-source research
+  - Native Justice Coalition (Manistee, MI): Surpassed $10,000 goal for billboards raising awareness of Missing and Murdered Indigenous Women
+  - Warrior Foundation: Freedom Station (San Diego, CA): Annual give-a-thon raised $2M+ to support injured service members
+  - City NEWS (Rochester, NY): Grew from 0 to 750+ engaged online donors, raising $50,000+ in first year on CommitChange
+
+## About
+
+- [About CommitChange](https://commitchange.com/about): Founded in 2012, acquired by Software for Good (Minneapolis, MN) in 2022. Values-driven team building technology with love. Platform powered by the open-source Houdini Project (AGPL license).
+- [For Developers](https://commitchange.com/developers): Open-source codebase (Houdini Project), custom development services, codebase contributions welcome, platform setup service for running your own fundraising instance.
+
+## Blog
+
+- [Blog](https://commitchange.com/blog): Articles on fundraising strategy, donation processing best practices, donor engagement, nonprofit technology, and platform updates.
+
+## Key Differentiators
+
+CommitChange is distinct from other nonprofit fundraising platforms in three ways:
+
+1. **No monthly fees or long-term contracts.** The fee is automatically deducted from each donation -- there are no invoices, no setup costs, and no cancellation fees. This makes CommitChange accessible to nonprofits of all sizes, including small grassroots organizations.
+2. **Open-source foundation.** The platform is built on the Houdini Project, publicly available under the AGPL license. Anyone can inspect, contribute to, or run their own instance of the code.
+3. **Values-driven approach.** CommitChange works in solidarity with nonprofits rather than treating them as leads to close. The team believes in shared abundance and building technology that serves communities.

@@ -1,7 +1,13 @@
 aid: commitchange
 name: CommitChange
-description: CommitChange is a company surfaced as a portfolio company of 500-global and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: CommitChange is an all-in-one nonprofit fundraising platform providing online
+  donation processing, recurring giving, embeddable donation widgets, crowdfunding and
+  peer-to-peer fundraising campaigns, professional event pages with ticketing, donor
+  management, and a real-time analytics dashboard. Founded in 2012 and acquired by Software
+  for Good (Minneapolis, MN) in 2022, the platform charges no monthly fees or long-term
+  contracts, taking 5% + $0.30 per transaction with payments processed securely via Stripe.
+  CommitChange is built on the open-source Houdini Project (AGPL) and has helped 1,000+
+  nonprofits raise $82M+ across 4,700+ campaigns and 2,900+ events.
 url: https://raw.githubusercontent.com/api-evangelist/commitchange/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +15,32 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://commitchange.com/favicon.ico
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Nonprofit
+- Fundraising
+- Donations
+- Payments
+- Events
+- Ticketing
+- Donor Management
+- Crowdfunding
+- Open Source
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +48,30 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/commitchange-domain-security.yml
 - type: Website
   url: https://commitchange.com
+- type: DeveloperPortal
+  url: https://commitchange.com/developers
+- type: Pricing
+  url: https://commitchange.com/pricing
+- type: Blog
+  url: https://commitchange.com/blog
+- type: PrivacyPolicy
+  url: https://commitchange.com/privacy
+- type: TermsOfService
+  url: https://commitchange.com/privacy
+- type: SignUp
+  url: https://us.commitchange.com/onboard
+- type: Login
+  url: https://us.commitchange.com/users/sign_in
+- type: GitHubOrganization
+  url: https://github.com/houdiniproject
+- type: LLMsTxt
+  url: llms/commitchange-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
