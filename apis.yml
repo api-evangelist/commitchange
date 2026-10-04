@@ -51,7 +51,7 @@ tags:
 - Ticketing
 - Donor Management
 - Crowdfunding
-- Open-Source
+- Open Source
 tags_raw:
 - Company
 - Nonprofit
@@ -63,6 +63,7 @@ tags_raw:
 - Donor Management
 - Crowdfunding
 - Open Source
+- Open-Source
 apis: []
 maintainers:
 - FN: Kin Lane
